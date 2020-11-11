@@ -1,10 +1,5 @@
 #!"C:\Program Files (x86)\Xampp\perl\bin\perl.exe"
 
-#wqbfe
-#qwbffjew
-#qewfbwje
-#ascbjds
-#asbfjhe
 
 BEGIN {
 
